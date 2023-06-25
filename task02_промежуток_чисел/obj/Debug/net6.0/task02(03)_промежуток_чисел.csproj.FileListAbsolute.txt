@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\bin\Debug\net6.0\task02(03)_промежуток_чисел.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\bin\Debug\net6.0\task02(03)_промежуток_чисел.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\bin\Debug\net6.0\task02(03)_промежуток_чисел.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\bin\Debug\net6.0\task02(03)_промежуток_чисел.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\bin\Debug\net6.0\task02(03)_промежуток_чисел.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\refint\task02(03)_промежуток_чисел.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\task02(03)_промежуток_чисел.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task02(03)_промежуток_чисел\obj\Debug\net6.0\ref\task02(03)_промежуток_чисел.dll
