@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\bin\Debug\net6.0\task07_определяет_четность.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\bin\Debug\net6.0\task07_определяет_четность.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\bin\Debug\net6.0\task07_определяет_четность.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\bin\Debug\net6.0\task07_определяет_четность.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\bin\Debug\net6.0\task07_определяет_четность.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\refint\task07_определяет_четность.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\task07_определяет_четность.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task07_определяет_четность\obj\Debug\net6.0\ref\task07_определяет_четность.dll

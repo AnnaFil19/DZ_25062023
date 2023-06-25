@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\bin\Debug\net6.0\task06_из_трех_чисел_выдает_большее.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\bin\Debug\net6.0\task06_из_трех_чисел_выдает_большее.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\bin\Debug\net6.0\task06_из_трех_чисел_выдает_большее.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\bin\Debug\net6.0\task06_из_трех_чисел_выдает_большее.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\bin\Debug\net6.0\task06_из_трех_чисел_выдает_большее.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\refint\task06_из_трех_чисел_выдает_большее.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\task06_из_трех_чисел_выдает_большее.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task06_из_трех_чисел_выдает_большее\obj\Debug\net6.0\ref\task06_из_трех_чисел_выдает_большее.dll

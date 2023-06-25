@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\bin\Debug\net6.0\task04_трехзначное_число.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\bin\Debug\net6.0\task04_трехзначное_число.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\bin\Debug\net6.0\task04_трехзначное_число.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\bin\Debug\net6.0\task04_трехзначное_число.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\bin\Debug\net6.0\task04_трехзначное_число.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\refint\task04_трехзначное_число.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\task04_трехзначное_число.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task04_трехзначное_число\obj\Debug\net6.0\ref\task04_трехзначное_число.dll

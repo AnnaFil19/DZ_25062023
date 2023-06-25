@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\bin\Debug\net6.0\task05_выдает_большее_число.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\bin\Debug\net6.0\task05_выдает_большее_число.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\bin\Debug\net6.0\task05_выдает_большее_число.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\bin\Debug\net6.0\task05_выдает_большее_число.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\bin\Debug\net6.0\task05_выдает_большее_число.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\refint\task05_выдает_большее_число.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\task05_выдает_большее_число.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task05_выдает_большее_число\obj\Debug\net6.0\ref\task05_выдает_большее_число.dll
