@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\bin\Debug\net6.0\task09_число_из_отрезка.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\bin\Debug\net6.0\task09_число_из_отрезка.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\bin\Debug\net6.0\task09_число_из_отрезка.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\bin\Debug\net6.0\task09_число_из_отрезка.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\bin\Debug\net6.0\task09_число_из_отрезка.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\refint\task09_число_из_отрезка.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\task09_число_из_отрезка.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task09_число_из_отрезка\obj\Debug\net6.0\ref\task09_число_из_отрезка.dll

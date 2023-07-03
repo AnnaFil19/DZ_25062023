@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\bin\Debug\net6.0\task12_кратность_чисел.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\bin\Debug\net6.0\task12_кратность_чисел.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\bin\Debug\net6.0\task12_кратность_чисел.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\bin\Debug\net6.0\task12_кратность_чисел.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\bin\Debug\net6.0\task12_кратность_чисел.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\refint\task12_кратность_чисел.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\task12_кратность_чисел.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task12_кратность_чисел\obj\Debug\net6.0\ref\task12_кратность_чисел.dll
