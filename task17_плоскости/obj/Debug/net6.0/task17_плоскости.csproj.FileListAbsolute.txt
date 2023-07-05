@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\bin\Debug\net6.0\task17_плоскости.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\bin\Debug\net6.0\task17_плоскости.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\bin\Debug\net6.0\task17_плоскости.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\bin\Debug\net6.0\task17_плоскости.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\bin\Debug\net6.0\task17_плоскости.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\refint\task17_плоскости.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\task17_плоскости.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task17_плоскости\obj\Debug\net6.0\ref\task17_плоскости.dll
