@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\bin\Debug\net6.0\task31.exe
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\bin\Debug\net6.0\task31.deps.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\bin\Debug\net6.0\task31.runtimeconfig.json
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\bin\Debug\net6.0\task31.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\bin\Debug\net6.0\task31.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\refint\task31.dll
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.pdb
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\task31.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Программирование 2023\1 четверть\3.C#\Лекции\1\C_sharp\task31\obj\Debug\net6.0\ref\task31.dll
